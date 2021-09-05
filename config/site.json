@@ -1,6 +1,6 @@
 {
   "icon": "/icons/128.png",
-  "title": "我的网盘",
+  "title": "武人的网盘",
   "googleFont": "Rubik",
   "googleFontWeights": [
     "400",
@@ -13,7 +13,7 @@
   ],
   "contact": {
     "email": "mailto:xqy@mrxqy.onmicrosoft.com",
-    "telegram": "https://t.me/realSpencerWoo",
+    "telegram": "https://user.qzone.qq.com/1434687824",
     "github": "https://github.com/Mr-wr"
   }
 }
