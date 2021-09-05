@@ -1,6 +1,6 @@
 {
   "icon": "/icons/128.png",
-  "title": "Spencer's OneDrive Index",
+  "title": "我的网盘",
   "googleFont": "Rubik",
   "googleFontWeights": [
     "400",
@@ -12,8 +12,8 @@
     "/🥟 Some test files/Protected route"
   ],
   "contact": {
-    "email": "mailto:spencer.wushangbo@gmail.com",
+    "email": "mailto:xqy@mrxqy.onmicrosoft.com",
     "telegram": "https://t.me/realSpencerWoo",
-    "github": "https://github.com/spencerwooo/onedrive-vercel-index"
+    "github": "https://github.com/Mr-wr"
   }
 }
